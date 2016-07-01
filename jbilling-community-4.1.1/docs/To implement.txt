@@ -1,0 +1,11 @@
+*Authentification à partir d'un provider (plugins)
+*gestion avancé de la prise de commande
+*provisionning management (orchestration layer)
+*Api d'exploition et integration avec un autre système (portail par exemple pour la prise de commande; CRM ....)
+*Api pour l'integration avec d'autre système de billing
+*exposer une api générique sur un bus wso2 + API maangement
+*revu de l'architecture (découppage en module mavenisé ) 
+*personnalisation de la couche vue et externalisation sur un serveur a part (le truc de la couche vue avec un revers eproxy sur un serveur apache)
+*gestion avancé des produits pour pouvoire construire des packs personnalisable de produit)
+*clustering de la solution entièrement 
+*+++
