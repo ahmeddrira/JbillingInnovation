@@ -1,0 +1,15 @@
+Date: Thu Jun 30 17:36:09 CEST 2016
+To: admin1@prancingpony.me
+From: admin@prancingpony.me
+Subject: Reset password request
+Body: Hello  Admin Strator,
+
+You (or someone pretending to be you) requested a password reset of your account.
+
+You may reset your password from the following link:
+
+http://www.yourcompany.com/jbilling/resetPassword/changePassword?token=WJqCfJFWWCGGdNJU3VowuMJWRFf8WzVQ
+
+Admin:	Prancing Pony
+Attachement: null
+        ----------------------        
